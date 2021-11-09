@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Merriweather:ital,wght@1,700&family=Poppins:wght@100;200&family=Red+Hat+Mono:ital,wght@1,700&family=Roboto:ital,wght@1,300&family=Zen+Antique+Soft&family=Zen+Kurenaido&display=swap');
+
+
+body{background-color: blue; 
+text-align: center;
+border: 10px solid purple
+;
+border-radius: 10px;
+}
+
+p{
+    font-size: 50px;
+}
+
+label{font-size: 30px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.yolo{
+    font-size: 20px;
+}
